@@ -1,0 +1,14 @@
+## Interface: 30100
+## Title: Wintergrasp Timer
+## Notes: Wintergrasp Timer
+## Author: Keith Gabryelski (ag@suramar)
+## X-Date: June 18, 2009
+## X-Email: ag@gabryelski.com
+## X-OptionsFrame: WGT_OptionsFrame
+## SavedVariablesPerCharacter: WGT_Options
+## Notes: By Keith Gabryelski (ag@suramar)
+## Version: 1.4.30100
+
+WintergraspTimer.lua
+WGT-WaitTimer.lua
+WGT-Options.xml
